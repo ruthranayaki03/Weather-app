@@ -18,4 +18,4 @@
 ## Clone the Repo:
      git clone https://github.com/yourusername/weather-app.git
 ## Preview
-https://swathiseenivasan.github.io/Weather-Application/
+https://ruthranayaki03.github.io/Weather-app/
